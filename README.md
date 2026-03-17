@@ -17,7 +17,7 @@
     3. ゴールに到達する
 
 遊び方
-1. https://miyajimas2525-star.github.io/Zero-Logic/　を開くと遊ぶことができます。
+1. 以下のリンクを開くと遊ぶことができます。https://miyajimas2525-star.github.io/Zero-Logic/
 2. キーボードの矢印キーで移動します。
 3. Rキーでリセット、Zキーで一歩戻ることができます。
 
