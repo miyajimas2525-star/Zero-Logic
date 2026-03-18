@@ -8,22 +8,23 @@
 </head>
 <body>
     <h1>ゼロ・ロジック</h1>
+
     <div id="game-ui">
-        <p class="hint-text">方向キー←↑→↓で移動します</p>
         <div id="status-bar">
             <span>ステージ:<span id="stage-num">1</span>/3</span>
             <span>ポイント:<span id="power-val">0</span></span>
             <span id="step-container">ターン: <span id="step-val">0</span></span>
         </div>
     </div>
+    <p class="hint-text">ゴールまでにポイントを0にし、ゴールを目指せ！</p>
+    <p class="hint-text">方向キー←↑→↓で動きます</p>
     <div id="game-container"></div>
     <div class="controls">
         <div class="btn-group">
             <button id="reset-btn">リセット(R)</button>
             <button id="undo-btn">1手戻る(Z)</button>
         </div>
-        <p class="hint-text">ゴールまでにポイントを0にし、ゴールを目指せ！</p>
-        
+
     </div>
     <script src="script.js"></script>
 </body>
